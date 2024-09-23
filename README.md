@@ -86,3 +86,4 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![Screenshot 2024-09-23 201803](https://github.com/user-attachments/assets/e1b554b5-4e5b-4fb4-805a-2a14f1081d44)
